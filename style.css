@@ -1,8 +1,9 @@
-body {
+body { 
     background-image: linear-gradient(#7C1A8D, rgb(0, 0, 0));
     color: rgb(255, 255, 255);
     padding: 10px;
     font-family: Arial, sans-serif;
+    min-height: 100vh;
     
 }
 
