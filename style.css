@@ -80,3 +80,24 @@ main {
 h2, h3 {
     margin: 0px;
 }
+  
+  #portfolio {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  #portfolio li {
+    background: #480244;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #portfolio li:hover {
+    background: #2d042c;
+  }
+  
+  #portfolio a {
+    text-decoration: none;
+    color: #ffffff;
+  }
